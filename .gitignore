@@ -132,7 +132,7 @@ todo.md
 my_todo.md
 
 # Data files (ignore large or sensitive datasets)
-data/*.csv
+#data/*.csv
 !data/sample_*.csv  # Keep small demo/sample CSVs
 
 # Model or serialized files
